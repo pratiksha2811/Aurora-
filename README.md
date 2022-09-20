@@ -1,4 +1,4 @@
 
 # This is my UI-UX work.
 
-1.Aurora landing page
+1. Aurora landing page
